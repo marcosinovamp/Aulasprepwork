@@ -1,0 +1,60 @@
+body{
+  background: rgb(240,240,240);
+  color: #010C4F;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  color: #029C55;
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  color: #029C55;
+  font-weight: bold;
+  font-size: 25px;
+}
+a {
+  color: #1D7DE8;
+}
+a:hover {
+  text-decoration: none;
+  color: #3AB7E3;
+}
+#banner{
+  text-align: center;
+  background-image: url("images/imgbanner.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
