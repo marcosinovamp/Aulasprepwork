@@ -25,7 +25,7 @@ a:hover {
 }
 #banner{
   text-align: center;
-  background-image: url("imgbanner.jpg");
+  background-image: url ("imgbanner.jpg");
   background-size: cover;
   padding: 150px;
   color: white;
