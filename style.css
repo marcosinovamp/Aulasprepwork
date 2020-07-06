@@ -25,7 +25,11 @@ a:hover {
 }
 #banner{
   text-align: center;
+<<<<<<< HEAD
   background-image: url("imgb.jpg");
+=======
+  background-image: url ("imgb.jpg");
+>>>>>>> gh-pages
   background-size: cover;
   padding: 150px;
   color: white;
